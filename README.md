@@ -126,6 +126,6 @@ This project successfully implements a Decision Tree Classifier to classify iris
 
 ## Author
 
-**Fatima Hamid**
+**Maryam Masood**
 
 Biostatistics Student | Learning Artificial Intelligence and Machine Learning
